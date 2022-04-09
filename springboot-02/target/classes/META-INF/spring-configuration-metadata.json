@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "food",
+      "type": "com.duyi.config.FoodConfig",
+      "sourceType": "com.duyi.config.FoodConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "food.meat",
+      "type": "java.lang.String",
+      "sourceType": "com.duyi.config.FoodConfig"
+    },
+    {
+      "name": "food.rice",
+      "type": "java.lang.String",
+      "sourceType": "com.duyi.config.FoodConfig"
+    }
+  ],
+  "hints": []
+}

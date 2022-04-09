@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/springboot-01/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-02/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-03/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-03-thymeleaf/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-03-restful/pom.xml" />
+        <option value="$PROJECT_DIR$/srpingboot-04-jpa/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-04-mybatis/pom.xml" />
+      </list>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+<div th:object="${restaurant}">
+    <p>boss:<span th:text="*{boss}">boss</span>.</p>
+    <p>chef:<span th:text="${restaurant.chef}">chef</span>.</p>
+</div>
+
+<a href="/welcome" th:href="@{/welcome}">welcome</a>
+
+<p th:text="#{something}">message</p>
+
+<div th:insert="footer :: copy"></div>
+<div th:replace="footer :: copy"></div>
+<div th:include="footer :: copy"></div>
+
+</body>
+</html>

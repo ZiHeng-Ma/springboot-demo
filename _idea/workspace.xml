@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b623877b-bc9e-4c31-aa3b-8f2a2104b8e0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/maven/apache-maven-3.6.3-bin/apache-maven-3.6.3" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1oHUmSPcS4JlF1Axq5TUib8rTsx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/springboot-04-mybatis/src/main/resources/static/css" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.duyi" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\MZH\IdeaProjects\springboot-duyi-demo\springboot-04-mybatis\src\main\resources\static\css" />
+      <recent name="C:\Users\MZH\IdeaProjects\springboot-duyi-demo\srpingboot-04-jpa\src\main\resources\static" />
+      <recent name="C:\Users\MZH\IdeaProjects\springboot-duyi-demo\srpingboot-04-jpa\src\main\resources" />
+      <recent name="C:\Users\MZH\IdeaProjects\springboot-duyi-demo\springboot-03-restful\src\main\resources\static" />
+      <recent name="C:\Users\MZH\IdeaProjects\springboot-duyi-demo\springboot-03-restful\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ThymeleafApplication">
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="springboot-02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.duyi.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.duyi.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot03Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-03-template" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.duyi.Springboot03Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot03RestfulApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-03-restful" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.duyi.springboot03restful.Springboot03RestfulApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot04MybatisApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-04-mybatis" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.duyi.Springboot04MybatisApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Srpingboot04JpaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="srpingboot-04-jpa" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.duyi.srpingboot04jpa.Srpingboot04JpaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThymeleafApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-03-thymeleaf" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.duyi.ThymeleafApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="restfulApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-03-restful" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.duyi.restfulApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.DemoApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b623877b-bc9e-4c31-aa3b-8f2a2104b8e0" name="Default Changelist" comment="" />
+      <created>1612943167102</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612943167102</updated>
+      <workItem from="1612943168376" duration="4297000" />
+      <workItem from="1613213402019" duration="3042000" />
+      <workItem from="1613216487277" duration="815000" />
+      <workItem from="1613385668439" duration="4377000" />
+      <workItem from="1613448863824" duration="2297000" />
+      <workItem from="1613624570831" duration="4243000" />
+      <workItem from="1614744250431" duration="65000" />
+      <workItem from="1614744344977" duration="7748000" />
+      <workItem from="1614832849631" duration="1175000" />
+      <workItem from="1614919389261" duration="3185000" />
+      <workItem from="1615005144451" duration="5385000" />
+      <workItem from="1615091763762" duration="4213000" />
+      <workItem from="1615336964510" duration="2635000" />
+      <workItem from="1615431275460" duration="607000" />
+      <workItem from="1615523188386" duration="5350000" />
+      <workItem from="1615693969708" duration="2606000" />
+      <workItem from="1617246276784" duration="688000" />
+      <workItem from="1617363759734" duration="1214000" />
+      <workItem from="1617506776430" duration="54000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1615337553537">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1615337553537" />
+    <state x="505" y="221" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1615091995601">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="505" y="221" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1615091995601" />
+    <state x="574" y="105" key="#com.intellij.ide.util.MemberChooser" timestamp="1615527472138">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="105" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1615527472138" />
+    <state x="549" y="170" key="FileChooserDialogImpl" timestamp="1615339182489">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1615339182489" />
+    <state width="1024" height="210" key="GridCell.Tab.0.bottom" timestamp="1614775624201">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1614775624201" />
+    <state width="1024" height="210" key="GridCell.Tab.0.center" timestamp="1614775624201">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1614775624201" />
+    <state width="1024" height="210" key="GridCell.Tab.0.left" timestamp="1614775624201">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1614775624201" />
+    <state width="1024" height="210" key="GridCell.Tab.0.right" timestamp="1614775624201">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1614775624201" />
+    <state width="1024" height="210" key="GridCell.Tab.1.bottom" timestamp="1614775624201">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="210" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1614775624201" />
+    <state width="1024" height="210" key="GridCell.Tab.1.center" timestamp="1614775624201">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="210" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1614775624201" />
+    <state width="1024" height="210" key="GridCell.Tab.1.left" timestamp="1614775624201">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="210" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1614775624201" />
+    <state width="1024" height="210" key="GridCell.Tab.1.right" timestamp="1614775624201">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="210" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1614775624201" />
+    <state x="299" y="70" key="Maven.ArtifactSearchDialog" timestamp="1613450524793">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="299" y="70" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1613450524793" />
+    <state x="286" y="45" key="SettingsEditor" timestamp="1615526462209">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="286" y="45" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1615526462209" />
+    <state x="461" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1617506775928">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="461" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1617506775928" />
+    <state x="178" y="57" key="new project wizard" timestamp="1617506827773">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="178" y="57" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1617506827773" />
+  </component>
+</project>
